@@ -1,0 +1,16 @@
+c:\users\danmcgregor\documents\visual studio 2012\Projects\c1WFApp\c1WFApp\bin\Debug\c1WFApp.exe.config
+C:\Users\danmcgregor\Documents\Visual Studio 2012\Projects\c1WFApp\c1WFApp\bin\Debug\c1WFApp.exe
+C:\Users\danmcgregor\Documents\Visual Studio 2012\Projects\c1WFApp\c1WFApp\bin\Debug\c1WFApp.pdb
+C:\Users\danmcgregor\Documents\Visual Studio 2012\Projects\c1WFApp\c1WFApp\bin\Debug\C1.Win.C1Input.4.dll
+C:\Users\danmcgregor\Documents\Visual Studio 2012\Projects\c1WFApp\c1WFApp\bin\Debug\C1.Win.C1Input.4.xml
+C:\Users\danmcgregor\Documents\Visual Studio 2012\Projects\c1WFApp\c1WFApp\obj\Debug\c1WFApp.csprojResolveAssemblyReference.cache
+C:\Users\danmcgregor\Documents\Visual Studio 2012\Projects\c1WFApp\c1WFApp\obj\Debug\c1WFApp.Form1.resources
+C:\Users\danmcgregor\Documents\Visual Studio 2012\Projects\c1WFApp\c1WFApp\obj\Debug\c1WFApp.Properties.Resources.resources
+C:\Users\danmcgregor\Documents\Visual Studio 2012\Projects\c1WFApp\c1WFApp\obj\Debug\c1WFApp.csproj.GenerateResource.Cache
+C:\Users\danmcgregor\Documents\Visual Studio 2012\Projects\c1WFApp\c1WFApp\obj\Debug\c1WFApp.exe.licenses
+C:\Users\danmcgregor\Documents\Visual Studio 2012\Projects\c1WFApp\c1WFApp\obj\Debug\c1WFApp.exe
+C:\Users\danmcgregor\Documents\Visual Studio 2012\Projects\c1WFApp\c1WFApp\obj\Debug\c1WFApp.pdb
+C:\Users\danmcgregor\documents\visual studio 2012\Projects\c1WFApp\c1WFApp\bin\Debug\C1.Win.C1Ribbon.4.dll
+C:\Users\danmcgregor\documents\visual studio 2012\Projects\c1WFApp\c1WFApp\bin\Debug\C1.Win.C1Ribbon.4.xml
+C:\Users\danmcgregor\Documents\Visual Studio 2012\Projects\c1WFApp\c1WFApp\bin\Debug\C1.C1Report.4.dll
+C:\Users\danmcgregor\Documents\Visual Studio 2012\Projects\c1WFApp\c1WFApp\bin\Debug\C1.C1Report.4.xml
